@@ -6,7 +6,7 @@ Bem vindo ao meu perfil! Sou um programador a 5/4 meses, e me divirto muito! Gos
 - Ruby
 - JavaScript
 - Typescript
-#### E pretendo aprender a linguagem PHP!
+#### E pretendo aprender a linguagem Lua!
 
 Sou um developher mobile e pretendo evoluir muito mais nessa jornada!
 
