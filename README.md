@@ -7,7 +7,7 @@ Bem vindo ao meu perfil! Sou um programador a 5/4 meses, e me divirto muito! Gos
 - JavaScript
 - Typescript
 
-Sou um developher mobile e pretendo evoluir muito mais nessa jornada!
+Programo por diversão
 
 Meu Discord:
 ```Miniks#0563```
