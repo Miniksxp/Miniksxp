@@ -1,6 +1,19 @@
+# Bem vindo ao meu perfil da github!👋
 
+> Um pouco sobre mim:
 
-   Hey, I am a mobile developer,
-  And I intend to learn more about back and!
+Sou um pessoal que adora tecnologia e historia, pretendo sempre aprender mais e no futuro ser um professor de historia.
 
-<img src="http://68.media.tumblr.com/eb36bf6b8cabff5ebb57935028e107c3/tumblr_o3ye5sHnDK1sa6u20o1_400.gif">
+> Tecnologias que eu aprendi:
+
+* Ruby
+* JavaScript
+* Learning Lua and Typescript
+
+> Discord:
+
+* Miniks7#0007
+
+> Twitter
+
+* @MiniksOnRails
