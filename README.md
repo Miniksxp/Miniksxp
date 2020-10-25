@@ -2,7 +2,13 @@
 
 > Um pouco sobre mim:
 
-Sou um pessoal que adora tecnologia e historia, pretendo sempre aprender mais e no futuro ser um professor de historia.
+Sou um pessoa que adora tecnologia, historia e animes, pretendo sempre aprender mais e no futuro ser um professor de historia.
+
+> Best Animes
+
+* Akame Ga Kill
+* JoJo's Bizarre Adventure
+* Kill la Kill
 
 > Tecnologias que eu aprendi:
 
