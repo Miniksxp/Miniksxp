@@ -14,7 +14,7 @@ Sou um pessoa que adora tecnologia, historia e animes, pretendo sempre aprender 
 
 * Ruby
 * JavaScript
-* Learning Lua and Typescript
+* Learning Typescript
 
 > Discord:
 
